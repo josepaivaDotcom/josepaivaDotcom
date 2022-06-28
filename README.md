@@ -1,16 +1,7 @@
-### Hi there 👋
+### Hi there, I am Jose Paiva 👋
 
-<!--
-**josepaivaDotcom/josepaivaDotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on Private Equity and Real Estate Markets.
-🌱 I’m currently learning AI with Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Private Equity and Real Estate Markets.
+- 🌱 I’m currently learning AI with Python
 📫 How to reach me: josepaivapmp@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
